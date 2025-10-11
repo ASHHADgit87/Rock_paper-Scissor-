@@ -18,7 +18,7 @@ This is a simple and interactive Rock Paper Scissors web game built using HTML, 
 
 https://rockpaperscissorash.netlify.app/
 
-## 👨‍💻 Author
+## 👨‍💻 Creator & Developer
 
 - **Muhammad Ashhadullah Zaheer**  
 - 🔗 LinkedIn: [Muhammad Ashhadullah Zaheer](https://www.linkedin.com/in/muhammad-ashhadullah-zaheer-41194a340/)  
